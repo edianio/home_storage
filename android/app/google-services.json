@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "714092643200",
+    "project_id": "nerv-eva00",
+    "storage_bucket": "nerv-eva00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714092643200:android:316aafc5d12f576c5b3765",
+        "android_client_info": {
+          "package_name": "br.com.edianioferreira.home_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714092643200-0jcb320dhss9g74nvp1l92s04241flhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hZLE_sWgH3wMLQgrTuKEuyydc1gWR5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714092643200-0jcb320dhss9g74nvp1l92s04241flhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714092643200:android:f80b4a03d7bf1ca35b3765",
+        "android_client_info": {
+          "package_name": "com.firebasebasicaccess.firebase_basic_access"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714092643200-0jcb320dhss9g74nvp1l92s04241flhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hZLE_sWgH3wMLQgrTuKEuyydc1gWR5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714092643200-0jcb320dhss9g74nvp1l92s04241flhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
